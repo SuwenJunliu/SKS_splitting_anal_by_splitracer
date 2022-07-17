@@ -1,0 +1,4 @@
+Network | Station | Location | Channel | Latitude | Longitude | Elevation | Depth | Azimuth | Dip | SensorDescription | Scale | ScaleFreq | ScaleUnits | SampleRate | Starttime | EndTime
+YP NE11 - BHE 42.85992 124.05263  0 90 0 NoDescrip 1 1 Count 100 1979-01-01T00:00:00 2099-01-01T00:00:00 
+YP NE11 - BHN 42.85992 124.05263  0 0 0 NoDescrip 1 1 Count 100 1979-01-01T00:00:00 2099-01-01T00:00:00 
+YP NE11 - BHZ 42.85992 124.05263  0 0 -90 NoDescrip 1 1 Count 100 1979-01-01T00:00:00 2099-01-01T00:00:00 
