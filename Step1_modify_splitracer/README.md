@@ -9,10 +9,10 @@ SplitRacer is a tool for analysis the Shear‐Wave, especially the SKS phase. Th
 
 ## Why we choose and modify the SplitRacer 
 
-There are many useful tools for Shear‐Wave Splitting such as SplitLab (https://github.com/IPGP/splitlab). The reason why I choose SplitRacer are below:
+There are many useful tools for Shear‐Wave Splitting such as SplitLab (https://github.com/IPGP/splitlab). The reasons why I choose SplitRacer are below:
 
 1. SplitRacer is based on Matlab, which is easy for coding and debugging.
-2. SplitLab is running on old versions of MATLAB, especially compared to SplitRacer. I met a lot problem while debugging the SplitLab.
+2. SplitLab is running on old versions of MATLAB, especially compared to SplitRacer. I met a lot problems while debugging the SplitLab.
 3. In 2021, Frederik Link et al. update the SplitRacer, and add the auto processing function, which makes it possible for analyzing the dense array. 
 
 `An automatized XKS-splitting procedure for large data sets: Extension package for SplitRacer and application to the USArray https://doi.org/10.1016/j.cageo.2021.104961`
